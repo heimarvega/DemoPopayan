@@ -135,7 +135,7 @@ public class Yatzy {
             return 0;
     }
 
-    public static int four_of_a_kind(int _1, int _2, int d3, int d4, int d5)
+    public static int fourOfaKind(int _1, int _2, int d3, int d4, int d5)
     {
         int[] tallies;
         tallies = new int[6];
