@@ -99,7 +99,7 @@ public class Yatzy {
         return sum;
     }
 
-    public static int score_pair(int d1, int d2, int d3, int d4, int d5)
+    public static int scorePair(int d1, int d2, int d3, int d4, int d5)
     {
         int[] counts = new int[6];
         counts[d1-1]++;
